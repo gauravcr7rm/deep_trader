@@ -32,7 +32,7 @@ gdata==2.0.18
 gnureadline==6.3.3
 h5py==2.5.0
 html5lib==0.999
-httplib2==0.9
+httplib2==0.19.0
 idna==0.9
 ipykernel==4.1.1
 ipython==4.0.0
