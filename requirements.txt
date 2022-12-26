@@ -138,7 +138,7 @@ vatnumber==1.2
 vobject==0.8.1rc0
 w3lib==1.13.0
 Werkzeug==0.9.6
-wheel==0.26.0
+wheel==0.38.1
 xdiagnose==3.7.2
 xlwt==0.7.5
 zope.interface==4.1.1
